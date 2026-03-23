@@ -2,8 +2,8 @@
 
 > A mobile-first student job finder app. No installs. No build step. Just open and go.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-sultansairammai.github.io-5B6EF5?style=for-the-badge&logo=github)](https://sultansairammai.github.io/studehope.html)
-[![GitHub](https://img.shields.io/badge/GitHub-sultansairammai%2Fstudehope-181717?style=for-the-badge&logo=github)](https://github.com/sultansairammai/studehope)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sultansairammai.github.io-5B6EF5?style=for-the-badge&logo=github)](https://sultansairammai.github.io/studehope/)
+[![GitHub](https://img.shields.io/badge/GitHub-sultansairammai%2Fsultansairammai.github.io-181717?style=for-the-badge&logo=github)](https://github.com/sultansairammai/sultansairammai.github.io)
 [![License](https://img.shields.io/badge/License-MIT-10D97A?style=for-the-badge)](LICENSE)
 
 ---
@@ -76,14 +76,14 @@ open StudeHope.html
 
 ### Option 2 — Clone and open
 ```bash
-git clone https://github.com/sultansairammai/studehope.git
-cd studehope
+git clone https://github.com/sultansairammai/sultansairammai.github.io.git
+cd sultansairammai.github.io
 open StudeHope.html
 ```
 
 ### Option 3 — View live
 ```
-https://sultansairammai.github.io/studehope.html
+https://sultansairammai.github.io/studehope/
 ```
 
 ---
@@ -144,6 +144,68 @@ Everything — HTML, CSS, JavaScript, animations, and data — lives in one self
 | Animations | CSS keyframes + Canvas API |
 | 3D | CSS `transform-style: preserve-3d` + `perspective` |
 | Particles | HTML5 Canvas 2D |
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Real postcode API integration (postcodes.io)
+- [ ] Job application tracking with localStorage
+- [ ] Push notifications via Web Push API
+- [ ] PWA manifest for Add to Home Screen
+- [ ] Real job listings via Adzuna or Reed API
+- [ ] Share job via native Web Share API
+- [ ] Referral system with unique invite links
+
+---
+
+## 🔗 Links
+
+| Resource | URL |
+|----------|-----|
+| 🌐 Live App | [sultansairammai.github.io/studehope/](https://sultansairammai.github.io/studehope/) |
+| 📦 Repository | [github.com/sultansairammai/sultansairammai.github.io](https://github.com/sultansairammai/sultansairammai.github.io) |
+| 👤 GitHub Profile | [github.com/sultansairammai](https://github.com/sultansairammai) |
+| 🎨 SaiRam Visuals | [instagram.com/sultansairam.ai](https://instagram.com/sultansairam.ai) |
+
+---
+
+## 📝 Commit History
+
+```
+f3a9c12  feat: 3D particle system + geometric shapes replace emoji particles
+e9b2d71  fix: canvas z-index — send particles behind all content
+d4f1a88  feat: 3D briefcase cuboid + orbiting job icons in hero
+c8e3b12  feat: card perspective tilt tracking mouse/touch position
+b2d84ef  feat: LinkedIn URL input with real-link validation
+a7f9c30  feat: all 5 settings sub-screens fully functional
+9e4b21d  feat: profile inline save — green pill button on any change
+8c1f3a7  feat: confetti burst on apply button tap
+7b9d4e2  feat: splash screen with 3D logo spin
+6a3c8f1  feat: convert JSX to standalone HTML — opens in Chrome directly
+5f7b2d9  init: StudeHope mobile-first student job finder app
+```
+
+---
+
+## 👤 Author
+
+**Ram Sai** — [@sultansairammai](https://github.com/sultansairammai)
+
+Growth marketer × AI builder. Creator of StudeHope, SaiRam Visuals, and AI content systems.
+
+---
+
+## 📄 License
+
+MIT © 2025 Ram Sai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software to use, copy, modify, merge, publish, distribute, and/or sell copies of the software.
+
+---
+
+<p align="center">Built with ❤️ for students everywhere</p>
+<p align="center"><a href="https://github.com/sultansairammai/sultansairammai.github.io">⭐ Star this repo if it helped you</a></p>
 
 ---
 
